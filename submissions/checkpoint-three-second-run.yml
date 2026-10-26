@@ -1,0 +1,12 @@
+schema_version: '1.0'
+name: Checkpoint Three Second Run
+applied_definition: 'A test submission for the end-to-end check of Submit with GitHub
+  (Checkpoint 3, run 2: a returning submitter whose fork is out of date). Not a real
+  metric: close the pull request without merging.'
+submitter_organizations:
+  - NIST AI Metrology Center (end-to-end test)
+contact_email: checkpoint3@example.org
+references:
+  - Example Author, An example reference for an end-to-end test, 2026.
+implementation_resources:
+  - https://example.org/checkpoint-three
