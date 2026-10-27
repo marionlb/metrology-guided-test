@@ -1,0 +1,11 @@
+schema_version: '1.0'
+name: Run 4
+applied_definition: lorem ipsum
+submitter_organizations:
+  - Marion
+contact_email: marion@prom.org
+references:
+  - A citation
+  - Another one
+implementation_resources:
+  - github
