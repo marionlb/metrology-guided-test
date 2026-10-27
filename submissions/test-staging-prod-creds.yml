@@ -1,0 +1,10 @@
+schema_version: '1.0'
+name: test staging prod creds
+applied_definition: lqfeIPAMSz
+submitter_organizations:
+  - DGSFdzcx
+contact_email: marion@prom.com
+references:
+  - nbgaFSV
+implementation_resources:
+  - bfvs
