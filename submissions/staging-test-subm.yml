@@ -1,0 +1,10 @@
+schema_version: '1.0'
+name: staging test subm
+applied_definition: lorem ipsum
+submitter_organizations:
+  - Marion
+contact_email: marion@prom.com
+references:
+  - gqefanpm
+implementation_resources:
+  - ngbdf
