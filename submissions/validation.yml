@@ -1,0 +1,30 @@
+schema_version: '1.0'
+name: Validation
+applied_definition: confirmation, through the provision of objective evidence, that
+  the requirements for a specific intended use or application have been fulfilled
+submitter_organizations:
+  - NIST
+contact_email: abenezer.wudenhe@nist.gov
+ai_rmf_characteristics:
+  - Valid & Reliable
+primary_tevv_application:
+  - Human-Centered Evaluation
+  - Privacy & Security Evaluation
+ai_lifecycle_stages:
+  - Plan and Design
+  - Operate & Monitor
+object_of_measurement:
+  - system
+model_specificity: model agnostic
+domain_specificity: domain agnostic
+modality:
+  - text
+  - vision
+  - video
+  - audio
+  - structured data
+  - physical
+references:
+  - ISO 9000:2015
+implementation_resources:
+  - https://github.com/usnistgov/ai-metrology-submissions
